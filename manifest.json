@@ -1,9 +1,0 @@
-{   
-   "name": "dinos-fancies"
-   "title": "Dino's Fancies",   
-   "description": "Fancy stuff from Dino",   
-   "author": "Dinosawer",
-   "version": "1.0.0",
-   "minimumCoreVersion": "0.8.9",
-   "compatibleCoreVersion":"0.8.9"
- }
