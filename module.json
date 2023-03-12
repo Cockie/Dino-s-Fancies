@@ -3,7 +3,7 @@
    "title": "Dino's Fancies",   
    "description": "Fancy stuff from Dino",   
    "author": "Dinosawer",
-   "version": "1.6.0",
+   "version": "1.7.0",
    "minimumCoreVersion": "0.8.9",
    "compatibleCoreVersion":"0.9",
    "packs": [
